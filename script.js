@@ -56,7 +56,15 @@ const semestersData = {
             { code: "CS3491", name: "Artificial Intelligence and Machine Learning", credits: 4 },
             { code: "NM1013", name: "IIOT & 4.0 Revolution", credits: 3 },
             { code: "OBT351", name: "Food Nutrition and Health", credits: 3 },
-        ],
+  ],
+     semester7: [
+        { code: "CME365", name: "Renewable Energy Technologies", credits: 3 },
+        { code: "GE3754", name: "Human Resource Management", credits: 3 },
+        { code: "GE3791", name: "Human Values & Ethics", credits: 2 },
+        { code: "MD3711", name: "Hospital Training", credits: 2 },
+        { code: "NM1030", name: "CCNA II", credits: 3 },
+        { code: "OFD351", name: "Holistic Nutrition", credits: 3 },
+    ]
 };
 
 // Populate SGPA calculators
